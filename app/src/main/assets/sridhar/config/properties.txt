@@ -1,0 +1,8 @@
+url:https://computer-lords.blogspot.in/
+name:Sridhar
+email:crsridhar2323@gmail.com
+gender:male
+botmaster:Sridhar
+organization:STA
+version:0.0.1
+
